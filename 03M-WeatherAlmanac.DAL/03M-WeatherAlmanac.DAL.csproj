@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_03M_WeatherAlmanac.DAL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\03M-WeatherAlmanac.Core\03M-WeatherAlmanac.Core.csproj" />
+  </ItemGroup>
+
+</Project>

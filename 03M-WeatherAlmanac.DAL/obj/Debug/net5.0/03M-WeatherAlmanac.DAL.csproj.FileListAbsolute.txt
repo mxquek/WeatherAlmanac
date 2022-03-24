@@ -1,0 +1,15 @@
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\03M-WeatherAlmanac.DAL.deps.json
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\03M-WeatherAlmanac.DAL.dll
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\ref\03M-WeatherAlmanac.DAL.dll
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\03M-WeatherAlmanac.DAL.pdb
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.AssemblyInfoInputs.cache
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.AssemblyInfo.cs
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.dll
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\ref\03M-WeatherAlmanac.DAL.dll
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.pdb
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\03M-WeatherAlmanac.Core.dll
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\03M-WeatherAlmanac.Core.pdb
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.csproj.AssemblyReference.cache
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.csproj.CopyComplete
