@@ -15,3 +15,4 @@ C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.BLL\bin\Debug\net5
 C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.BLL\bin\Debug\net5.0\03M-WeatherAlmanac.DAL.pdb
 C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.BLL\obj\Debug\net5.0\03M-WeatherAlmanac.BLL.csproj.AssemblyReference.cache
 C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.BLL\obj\Debug\net5.0\03M-WeatherAlmanac.BLL.csproj.CopyComplete
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.BLL\bin\Debug\net5.0\Data\DateRecords.csv

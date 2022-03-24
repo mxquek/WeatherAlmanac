@@ -13,3 +13,4 @@ C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5
 C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\03M-WeatherAlmanac.Core.pdb
 C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.csproj.AssemblyReference.cache
 C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.csproj.CopyComplete
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\Data\DateRecords.csv

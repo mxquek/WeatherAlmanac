@@ -9,4 +9,10 @@
     <ProjectReference Include="..\03M-WeatherAlmanac.Core\03M-WeatherAlmanac.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Data\DateRecords.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\03M-WeatherAlmanac.BLL\03M-WeatherAlmanac.BLL.csproj" />
     <ProjectReference Include="..\03M-WeatherAlmanac.Core\03M-WeatherAlmanac.Core.csproj" />
   </ItemGroup>
