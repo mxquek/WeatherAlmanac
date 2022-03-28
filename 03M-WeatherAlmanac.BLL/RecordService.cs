@@ -41,7 +41,7 @@ namespace _03M_WeatherAlmanac.BLL
         public Result<DateRecord> Edit(DateRecord record)
         {
             Result<DateRecord> result = new Result<DateRecord>();
-            if ((record.LowTemp < -50 || record.LowTemp > record.HighTemp || record.HighTemp > 140) && record.HighTemp != -1000)
+            if ((record.LowTemp < -50 || record.LowTemp > record.HighTemp || record.HighTemp > 140))
             {
                 result.Message = "Invalid temperature range.";
                 result.Success = false;

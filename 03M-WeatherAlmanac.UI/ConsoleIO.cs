@@ -8,9 +8,9 @@ namespace _03M_WeatherAlmanac.UI
 {
 	class ConsoleIO
 	{
-		private decimal _GetDecimal(string prompt, bool nullable)
+		private decimal? _GetDecimal(string prompt, bool nullable)
         {
-			decimal result = -1000;	//arbitrary number far out of range
+			decimal? result = null;
 			bool valid = false;
 			while (!valid)
 			{
@@ -22,16 +22,17 @@ namespace _03M_WeatherAlmanac.UI
 					//Display("TESTING\t\tNULL ENTERED");			//testing
 					continue;
 				}
-				if (!decimal.TryParse(input, out result))
+				if (!decimal.TryParse(input, out decimal temp))
 				{
 					Error("Please input a proper decimal\n\n");
 				}
 				else
 				{
+					result = temp;
 					valid = true;
 				}
 			}
-			return result;		//returns negative 1000 if null
+			return result;
 		}
 		public int GetInt(string prompt)
 		{
@@ -53,9 +54,9 @@ namespace _03M_WeatherAlmanac.UI
 		}
 		public decimal GetDecRequired(string prompt)
         {
-			return _GetDecimal(prompt, false);
+			return _GetDecimal(prompt, false).Value;
 		}
-		public decimal GetDecOptional(string prompt)
+		public decimal? GetDecOptional(string prompt)
         {
 			return _GetDecimal(prompt, true);
 		}

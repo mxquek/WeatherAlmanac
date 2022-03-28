@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6IYTl7Drc+xZehyFgHk7oolGfNRKh9GAOJzrWRRW+zQnObacJgE7YR0lsjjYHWS84yn7hXmYzLyazLCFg4kzoQ==",
+  "dgSpecHash": "TPkV2zIGNJulanNYELLauv0Tb1wlPoNERi5ZVZK6DyroCwFYlDoXeijHblUv+nSX6p0qWTY/Xb6ngny//51gFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mabel\\training\\03M-WeatherAlmanac\\03M-WeatherAlmanac.DAL\\03M-WeatherAlmanac.DAL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mabel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mabel\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Mabel\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Mabel\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

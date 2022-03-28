@@ -56,15 +56,15 @@ namespace _03M_WeatherAlmanac.DAL
             {
                 if (_records[index].Date == record.Date)
                 {
-                    if (record.HighTemp != -1000)
+                    if (record.HighTemp != null)
                     {
                         _records[index].HighTemp = record.HighTemp;
                     }
-                    if (record.LowTemp != -1000)
+                    if (record.LowTemp != null)
                     {
                         _records[index].LowTemp = record.LowTemp;
                     }
-                    if (record.Humidity != -1000)
+                    if (record.Humidity != null)
                     {
                         _records[index].Humidity = record.Humidity;
                     }

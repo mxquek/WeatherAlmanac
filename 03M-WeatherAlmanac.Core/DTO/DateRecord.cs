@@ -5,9 +5,9 @@ namespace _03M_WeatherAlmanac.Core.DTO
     public class DateRecord
     {
         public DateTime Date {get; set;}
-        public decimal HighTemp { get; set; }
-        public decimal LowTemp { get; set; }
-        public decimal Humidity { get; set; }
+        public decimal? HighTemp { get; set; }
+        public decimal? LowTemp { get; set; }
+        public decimal? Humidity { get; set; }
         public string Description { get; set; }
 
         public override string ToString()

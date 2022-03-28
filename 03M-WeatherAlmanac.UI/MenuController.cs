@@ -153,13 +153,6 @@ namespace _03M_WeatherAlmanac.UI
             input.HighTemp = _ui.GetDecOptional("High (" + result.Data.HighTemp + ")");
             input.LowTemp = _ui.GetDecOptional("Low (" + result.Data.LowTemp + ")");
             input.Humidity = _ui.GetDecOptional("Humidity (" + result.Data.Humidity + "%)");
-
-
-            //decimal humidity = _ui.GetDecOptional("Humidity (" + result.Data.Humidity + "%)");
-            //if (humidity != -1)
-            //{
-            //    input.Humidity = humidity;
-            //}
             
             _ui.Display("Old Description: " + result.Data.Description);
             input.Description = _ui.GetString("New Description");

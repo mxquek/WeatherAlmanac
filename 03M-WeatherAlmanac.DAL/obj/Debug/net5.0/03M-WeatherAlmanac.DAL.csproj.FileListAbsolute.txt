@@ -14,3 +14,9 @@ C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5
 C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.csproj.AssemblyReference.cache
 C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\obj\Debug\net5.0\03M-WeatherAlmanac.DAL.csproj.CopyComplete
 C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\Data\DateRecords.csv
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Mabel\training\03M-WeatherAlmanac\03M-WeatherAlmanac.DAL\bin\Debug\net5.0\testcentric.engine.metadata.dll
